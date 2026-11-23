@@ -1,0 +1,17 @@
+id,subject,body,true_category,true_urgency
+1,Can't print,"My laptop says the printer is offline. Other people can print fine.",printing,medium
+2,Locked out,"I typed my password wrong too many times and now my account is locked. I can't log in at all.",account_access,high
+3,New starter Monday,"We have a new salesperson starting Monday. They need a laptop and an email account.",onboarding,medium
+4,Wi-Fi keeps dropping,"The Wi-Fi in the workshop disconnects every few minutes on my tablet.",network,medium
+5,Excel crashes,"Excel closes by itself every time I open the monthly report.",software,medium
+6,Monitor not working,"My second screen stopped working after I moved desks. The cable is plugged in.",hardware,low
+7,Whole showroom offline,"Nobody in the showroom can get on the internet or open the DMS. Customers are waiting.",network,high
+8,Password reset,"I forgot my password over the weekend. Can you reset it?",account_access,medium
+9,Scan to email,"The copier won't scan to my email anymore. It worked last week.",printing,low
+10,Teams no sound,"I can't hear anyone in Teams meetings but YouTube works.",software,medium
+11,Keyboard keys sticking,"Some keys on my keyboard stick after I spilled coffee.",hardware,low
+12,Leaver access,"Sam finishes on Friday. Please remove their access and collect the laptop.",onboarding,medium
+13,application not working,"my certain application isn't working.",application, low
+14,Zoom not working,"Could you please add user xxx to zoom call queue",application, low
+15,new keyboard needed, "My keyboard is not working, could I get a new one", hardware, low
+16,Zoom not working,"My zoom phone isn't working could you have a look",network, low
