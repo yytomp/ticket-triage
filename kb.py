@@ -6,6 +6,7 @@ STOPWORDS = {
     "the", "and", "for", "can", "you", "your", "with", "this", "that", "have", "not",
     "are", "was", "but", "they", "their", "our", "get", "any", "all", "its", "from",
     "when", "what", "then", "will", "it's", "can't", "please", "need",
+    "work", "working", "won", "isn", "don", "could", "look", "help",
 }
 
 

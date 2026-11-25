@@ -16,7 +16,12 @@ Relevant guide (may be empty):
 Answer with JSON only, no other text, in exactly this shape:
 {{"category": "<one of {categories}>", "urgency": "<one of {urgencies}>", "reply": "<a short, friendly reply to the user, using the guide if it helps>"}}
 
-Urgency is high when several people or customers are affected, or someone cannot work at all."""
+Decide urgency in this order:
+1. Low if the guide or ticket shows the user has a workaround (another app, device or option), even if they say they can't work.
+2. Low if it's a single device that probably needs basic troubleshooting (keyboard, mouse, monitor, desk phone), even if they say they can't work.
+3. High if several people or customers are affected, or one person cannot work and has no workaround.
+4. Otherwise medium.
+"""
 
 
 def build_prompt(subject, body, guide):

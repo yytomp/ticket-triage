@@ -14,4 +14,8 @@ id,subject,body,true_category,true_urgency
 13,application not working,"my certain application isn't working.",application, low
 14,Zoom not working,"Could you please add user xxx to zoom call queue",application, low
 15,new keyboard needed, "My keyboard is not working, could I get a new one", hardware, low
-16,Zoom not working,"My zoom phone isn't working could you have a look",network, low
+16,Zoom not working,"My Zoom phone isn't working, could you have a look? I can't work.",hardware,low
+17,New building pass,"Janitor Bob needs a new swipe pass",other,low
+18,Adobe not working,"My Adobe licence has expired, I can't work at all",software,high
+19,CRM down for sales team,"The CRM won't load for anyone in the sales department. We can't look up customers or log enquiries. Internet and email are working fine.",software,high
+20,DMS not working for service,"The whole service department can't get into the DMS. We can't open job cards or book cars in. Everything else is working.",software,high
