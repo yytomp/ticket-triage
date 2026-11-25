@@ -42,10 +42,15 @@ words like "working": an Adobe licence ticket picked up the Zoom phone guide,who
 several things at once, so I can't tell which helped most. Next time I'd change one thing per run, and replace keyword matching with embeddings so guides are matched by meaning, not by coincidental words.
 
 Run it yourself
+
 pip install -r requirements.txt
+
 export GEMINI_API_KEY=... # free key from aistudio.google.com, or put it in a .env file
+
 python triage.py
+
 python evaluate.py
+
 python app.py
 
 Tests: pytest (they also run on every push via GitHub Actions).
